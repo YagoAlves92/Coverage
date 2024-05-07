@@ -98,7 +98,7 @@ div{
     
 }
 
-@media screen (max-width:800px);
+@media screen and (max-width:800px){
 
 .link-header{
     display: none;
@@ -139,3 +139,4 @@ p{
     font-size: 34px;
 }
 
+}
