@@ -1,6 +1,7 @@
 <h1>Coverage</h1>
 <br>
 <h2> Esse foi um projeto que aprendi no <a href="http://rodolfomori.com.br">DevClub</a></h2>
+<p>projeto de responsvidade , do desktop para o mobile </p>
 <br>
 <h2>Tecnologias ultilizadas :</h2>
 - <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white">
